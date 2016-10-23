@@ -11,3 +11,4 @@
 - [ ] Interchange the languages being translated on a single click
 - [ ] Implement a tool bar
 - [ ] Invite friends to join translator.
+- [ ] Remove image ads and add video ads.
